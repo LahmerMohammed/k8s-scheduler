@@ -1,0 +1,3 @@
+
+
+func SetDefautlRandomScore(args *RandomScoreArgs) {}
